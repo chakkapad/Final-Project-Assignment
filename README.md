@@ -12,6 +12,7 @@
 
 <br/><br/>
 ### โครงสร้างของโปรแกรม
+```mermaid 
 classDiagram
     Program <-- From1
     From1 <-- Pod
@@ -43,5 +44,7 @@ classDiagram
         +Vapcelll()
         +Wire()
     }
+ ```
+    <br/> <br/>
 ### ผู้พัฒนาโปรแกรม
 นายจักรพรรดิ์ อนุไพร 643450065-4
