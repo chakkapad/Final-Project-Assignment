@@ -24,7 +24,7 @@ classDiagram
         +button1_Click()
         +saveToolStripMenuItem_Click()
         +button3_Click()
-        printDocument1_PrintPage()
+        +printDocument1_PrintPage()
     }
     class Pod{
         +somk()
